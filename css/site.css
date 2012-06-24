@@ -473,9 +473,11 @@ color: #464646;
 }
 
 a:hover { 
-text-shadow: 0px 0px 5px #0080ff;	
-/* sort out how this filter/dropshadow works */
-filter: dropshadow(color=#0080ff, offx=0, offy=0);
+text-shadow: 0px 0px 5px #FE57A1;	
+/* alt color: #0080ff.
+
+TODO: sort out how this filter/dropshadow works */
+filter: dropshadow(color=#FE57A1, offx=0, offy=0);
 }
 
 nav { 
@@ -490,7 +492,6 @@ list-style: none;
 
 /* seriously fucking pink text selection borrowed from html5boilerplate.com: */
 ::-moz-selection { background: #FE57A1; color: #fff; text-shadow: none; }
-
 ::selection { background: #FE57A1; color: #fff; text-shadow: none;}
 
 /* more sedate options:
