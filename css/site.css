@@ -475,7 +475,6 @@ color: #464646;
 a:hover { 
 text-shadow: 0px 0px 5px #FE57A1;	
 /* alt color: #0080ff.
-
 TODO: sort out how this filter/dropshadow works */
 filter: dropshadow(color=#FE57A1, offx=0, offy=0);
 }
