@@ -1,0 +1,69 @@
+/* TODO: add HTML5 Boilerplate? http://html5boilerplate.com/ */
+
+/* ==== primary styles =====================================================
+Author: Matt  
+========================================================================== */
+
+body {	
+background-color: #efefef;	
+text-rendering: optimizeLegibility;		
+color: #1f1f1f;  	
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;  	
+font-weight: 400;	
+font-size: normal;
+}
+
+/* inspiration from designhack: http://designshack.net/articles/css/the-10-best-script-and-handwritten-google-web-fonts/ */
+#tagline {
+font: 400 40px/1.2 'Leckerli One', Helvetica, sans-serif;  	
+color: #1f1f1f;
+margin: 50px;
+}
+
+#me {
+text-align: right;
+font-size: 5em;
+letter-spacing: 1px;
+margin: 225px;
+}
+
+a, a:link {
+text-decoration: none;
+color: #1f1f1f;
+}
+
+a:visited {
+text-decoration: none;
+color: #464646;
+}
+
+a:hover { 
+text-shadow: 0px 0px 5px #0080ff;	
+/* sort out how this filter/dropshadow works */
+filter: dropshadow(color=#0080ff, offx=0, offy=0);
+}
+
+nav { 
+padding: 0; 
+margin: 1em 0 0 0;
+font-size:50px; 
+}
+
+nav li { 
+list-style: none; 
+}
+
+/* seriously fucking pink text selection borrowed from html5boilerplate.com: */
+::-moz-selection { background: #FE57A1; color: #fff; text-shadow: none; }
+
+::selection { background: #FE57A1; color: #fff; text-shadow: none;}
+
+/* more sedate options:
+::selection {
+	background: #0080ff;
+	color: #fff;
+	text-shadow: none;
+} 
+
+OR Carolina blue: #56A0D3 
+*/
