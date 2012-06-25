@@ -4,13 +4,13 @@
 
 # TEAM
 
-    Matt Poland -- fanagling -- @mattpoland
+    Matt Poland -- finagling -- @mattpoland
 
 # THANKS
 
 	H5BP for damn near everything - http://h5bp.com
 	Joseph Tate for pointing me to Font Awesome - http://josephtate.com/
-	Hunter Janes for hosting consultation - @hhjanes
+	Hunter Janes for beer/hosting consultation - @hhjanes
 
 # TECHNOLOGY COLOPHON
 
