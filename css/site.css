@@ -460,7 +460,7 @@ nav {
 text-align: right;
 height: 70px;
 padding: 0 75px 0 0; 
-margin: 1em 0 0 0;
+margin: 1em 0 0 1em;
 font-size:50px; 
 }
 
@@ -472,9 +472,14 @@ list-style: none;
 text-align: right;
 font-size: 5em;
 letter-spacing: 1px;
-margin: 225px 0 0 0;
+/*
+width: 450px;
+float: right;
+*/
+/*
 margin: 225px 10px 0 0;
-margin-top: 1em;
+*/
+margin: 1em 0 0 0;
 padding: 0 3em 0 0;
 }
 
@@ -485,8 +490,9 @@ color: #1f1f1f;
 
 a:visited {
 text-decoration: none;
-color: #464646;
+color: #1f1f1f;
 }
+/*TODO change back to #464646 before making live */
 
 a:hover { 
 text-shadow: 0px 0px 5px #FE57A1;	
@@ -495,20 +501,13 @@ TODO: sort out how this filter/dropshadow works */
 filter: dropshadow(color=#FE57A1, offx=0, offy=0);
 }
 
-/* seriously fucking pink text selection borrowed from html5boilerplate.com: */
+/* seriously fucking pink text selection in honor of html5boilerplate.com: */
 ::-moz-selection { background: #FE57A1; color: #fff; text-shadow: none; }
 ::selection { background: #FE57A1; color: #fff; text-shadow: none;}
 
 /* more sedate options:
-::selection {
-	background: #0080ff;
-	color: #fff;
-	text-shadow: none;
-} 
-
-OR Carolina blue: #56A0D3 
+#0080ff OR Carolina blue: #56A0D3 
 */
-
 
 /* ==|== media queries ======================================================
    EXAMPLE Media Query for Responsive Design.
