@@ -3,3 +3,4 @@
 
 User-agent: *
 Disallow: /h5bp-extras/
+Disallow: /private/
