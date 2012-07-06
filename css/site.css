@@ -439,11 +439,6 @@ td {
    Author: Matt
    ========================================================================== */
 
-#container {
-    width: 85%;
-    margin: auto auto auto auto;
-}
-
 body {	
 background-color: #efefef;	
 text-rendering: optimizeLegibility;		
@@ -451,6 +446,11 @@ color: #1f1f1f;
 font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;  	
 font-weight: 300;	
 font-size: normal;
+}
+
+#container {
+    width: 85%;
+    margin: auto auto auto auto;
 }
 
 /* inspiration from designhack: http://designshack.net/articles/css/the-10-best-script-and-handwritten-google-web-fonts/ */
@@ -484,7 +484,7 @@ float: right;
 /*
 margin: 225px 10px 0 0;
 */
-margin: -1em 0 -2em 0;
+margin: -1em 0 -3em 0;
 padding: 0 3em 0 0;
 }
 
