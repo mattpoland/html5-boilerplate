@@ -441,7 +441,7 @@ td {
 
 #container {
     width: 85%;
-    margin: 2em auto 2em auto;
+    margin: auto auto auto auto;
 }
 
 body {	
@@ -521,7 +521,7 @@ filter: dropshadow(color=#0080ff, offx=0, offy=0);
 #0080ff OR Carolina blue: #56A0D3 
 */
 
-/* ==== media queries ======================================================
+/* ==1== media queries ======================================================
    EXAMPLE Media Query for Responsive Design.
    This example overrides the primary ('mobile first') styles
    Modify as content requires.
