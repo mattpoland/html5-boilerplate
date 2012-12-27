@@ -1,0 +1,20 @@
+body {color: #1f1f1f; font-weight: 300;	
+font-size: 1.2em;}
+
+a,
+a:link {
+	color: #262d54;
+	font-weight: bold;
+	text-decoration: none;
+	}    /* unvisited link */
+	
+a:hover {
+	color: #0080ff;
+	text-decoration: underline;
+	} 
+
+a:visited {color: #7b86c3; font-weight: bold;
+	text-decoration: none; }
+
+::-moz-selection { background: #FE57A1; color: #fff; text-shadow: none; }
+::selection { background: #FE57A1; color: #fff; text-shadow: none;}

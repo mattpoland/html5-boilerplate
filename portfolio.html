@@ -8,12 +8,35 @@
 <link href='http://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" media="screen" href="./css/font-awesome.css">
 <link rel="stylesheet" media="screen" href="./css/site.css">
+<script type="text/javascript" src="js/vendor/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/captify.tiny.js"></script>
+<!-- Captify script -->
+<script>
+$(document).ready(function(){
+	$('img.captify').captify({
+		// all of these options are... optional
+		// ---
+		// speed of the mouseover effect
+		speedOver: 150,
+		// speed of the mouseout effect
+		speedOut: 200,
+		// how long to delay the hiding of the caption after mouseout (ms)
+		hideDelay: 100,
+		// 'fade' or 'slide'
+		animation: 'fade',	  	
+		// text/html to be placed at the beginning of every caption
+		prefix: 'caption-text',	
+		// the name of the CSS class to apply to the caption box
+		className: 'caption'
+	});
+});
+</script>
 
 <!-- Begin displayed content -->
 <div id="container">
 
 <header id="construction">
-	<h2>More soon.</h2>
+	<h2>Portfolio</h2>
 </header>	
 
 <nav>
@@ -27,7 +50,7 @@
 		<li><a href="mailto:matt@mattpoland.net" title="email Matt"><i class="icon-envelope"></i></a></li>
 	</ul>	
 </nav>
-
+<!--
 <div id="resume">
 	<h2>
 		 Resumé
@@ -36,6 +59,6 @@
 	<img src="img/resume-teaser.png" alt="Matt Poland's Resume"/>
 	</a>
 </div>
-
+-->
 </div> <!-- end #container -->
 </html>

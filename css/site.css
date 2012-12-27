@@ -502,6 +502,12 @@ width: 600px;
 	padding: 0 3em 0 0;
 }
 
+/* TODO add #caption-text for Captify on Portfolio page
+#captify {
+
+}
+*/
+
 a, a:link {
 text-decoration: none;
 color: #1f1f1f;
@@ -511,7 +517,6 @@ a:visited {
 text-decoration: none;
 color: #1f1f1f;
 }
-/* TODO change back to #464646 before making live */
 
 a:hover { 
 text-shadow: 0px 0px 5px #0080ff;	
