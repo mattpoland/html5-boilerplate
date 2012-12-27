@@ -9,38 +9,62 @@
 # THANKS
 
 	H5BP for damn near everything - http://h5bp.com
-	Joseph Tate for pointing me to Font Awesome - http://josephtate.com/
+	Joseph Tate for pointing me to Font Awesome - @josephtate
 	Hunter Janes for beer/hosting consultation - @hhjanes
-	Brian Revis for Captify (http://archive.plugins.jquery.com/project/captify)
-	Caius Durling for the Captify fork I actually used - https://github.com/caius/jquery-captify
+	Katie Meyer for jQuery discussion - @katielmeyer
+	Caius Durling for the jQuery Captify fork I actually used - https://github.com/caius/jquery-captify
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr, Tumblr
+    Standards: HTML5, CSS3
+    Components: jQuery, Modernizr, Tumblr
+	Software: TextMate, GitHub
+	Hosting: bluehost
 
 
+				                      .-.
+				                     (   )
+				                      '-'
+				                      J L
+				                      | |
+				                     J   L
+				                     |   |
+				                    J     L
+				                  .-'.___.'-.
+				                 /___________\
+				            _.-""'           `""._
+				          .'                       `.
+				        J                            `.
+				       F                               L
+				      J                                 J
+				     J                                  `
+				     |                                   L
+				     |                                   |
+				     |                                   |
+				     |                                   J
+				     |                                    L
+				     |                                    |
+				     |             ,.___          ___....--._
+				     |           ,'     `""""""""'           `-._
+				     |          J           _____________________`-.
+				     |         F         .-'   `-88888-'    `Y8888b.`.
+				     |         |       .'         `P'         `88888b \
+				     |         |      J       #     L      #    q8888b L
+				     |         |      |             |           )8888D )
+				     |         J      \             J           d8888P P
+				     |          L      `.         .b.         ,88888P /
+				     |           `.      `-.___,o88888o.___,o88888P'.'
+				     |             `-.__________________________..-'
+				     |                                    |
+				     |         .-----.........____________J
+				     |       .' |       |      |       |
+				     |      J---|-----..|...___|_______|
+				     |      |   |       |      |       |
+				     |      Y---|-----..|...___|_______|
+				     |       `. |       |      |       |
+				     |         `'-------:....__|______.J
+				     |                                  |
+				      L___                              |
+				          """----...______________....--'
 
-                               -o/-
-                               +oo//-
-                              :ooo+//:
-                             -ooooo///-
-                             /oooooo//:
-                            :ooooooo+//-
-                           -+oooooooo///-
-           -://////////////+oooooooooo++////////////::
-            :+ooooooooooooooooooooooooooooooooooooo+:::-
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-
-                     -:+ooooooooooooooooo+:://////:--
-                       /ooooooooooooooooo+//////:-
-                      -ooooooooooooooooooo////-
-                      /ooooooooo+oooooooooo//:
-                     :ooooooo+/::/+oooooooo+//-
-                    -oooooo/::///////+oooooo///-
-                    /ooo+::://////:---:/+oooo//:
-                   -o+/::///////:-      -:/+o+//-
-                   :-:///////:-            -:/://
-                     -////:-                 --//:
-                       --                       -:
+

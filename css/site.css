@@ -495,29 +495,35 @@ margin: 50px;
 width: 600px;
 }
 
+#teaser {
+	margin: 50px;
+	padding: 0 10px 0 10px;
+}
+
+/*
 #resume {
 	text-align:center;
 	letter-spacing:.5px;
 	margin: -1em 0 -3em 0;
 	padding: 0 3em 0 0;
 }
+*/
 
 /* caption styling */
 
 .caption {
 	color: #ffffff;
-	
 	padding: 0.6em;
-	font-weight: bold;
-	font-size: 11px;
-	font-family: arial;
+	font-weight: 300;
+	font-size: 14px;
+	font-family: Gill Sans, helvetica, sans-serif;
 	display: none;
 	cursor: default;
 	
 	/* remove these 4 lines below if you want 
 	the caption to span the whole width of the 
 	image*/
-	width: 36%;
+	width: 100%;
 	text-align: center;
 	border-top: 1px solid #303030;
 	border-right: 1px solid #303030;

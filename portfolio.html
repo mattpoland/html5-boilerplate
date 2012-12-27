@@ -25,7 +25,7 @@ $(document).ready(function(){
 		// 'fade' or 'slide'
 		animation: 'fade',	  	
 		// text/html to be placed at the beginning of every caption
-		prefix: 'caption-text',	
+		prefix: '',	
 		// the name of the CSS class to apply to the caption box
 		className: 'caption'
 	});
@@ -50,15 +50,24 @@ $(document).ready(function(){
 		<li><a href="mailto:matt@mattpoland.net" title="email Matt"><i class="icon-envelope"></i></a></li>
 	</ul>	
 </nav>
-<!--
-<div id="resume">
-	<h2>
-		 Resumé
-	</h2>	
-	<a href="files/mpoland_resume_62912.pdf">
-	<img src="img/resume-teaser.png" alt="Matt Poland's Resume"/>
+
+<body>
+<div id="teaser">
+	<a href="portfolio/giving-ia.html">
+		<img src="img/dummy-giving-teaser.png" class="captify" title="UNC Office of University Development IA" />
 	</a>
 </div>
--->
+<div id="teaser">	
+	<a href="portfolio/ibm-ux.html">
+		<img src="img/rrc-teaser.png" class="captify" title="Usability Testing at IBM" />
+	</a>	
+</div>
+<br />
+<div id="teaser">	
+	<a href="files/matt_poland_resume">
+		<img src="img/resume-teaser.png" class="captify" title="Matt's Resume (opens .pdf)" />
+	</a>	
+</div>
+</body>
 </div> <!-- end #container -->
 </html>
