@@ -11,11 +11,13 @@
 	H5BP for damn near everything - http://h5bp.com
 	Joseph Tate for pointing me to Font Awesome - http://josephtate.com/
 	Hunter Janes for beer/hosting consultation - @hhjanes
+	Brian Revis for Captify (http://archive.plugins.jquery.com/project/captify)
+	Caius Durling for the Captify fork I actually used - https://github.com/caius/jquery-captify
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, Tumblr
 
 
 
